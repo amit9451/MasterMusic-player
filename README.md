@@ -1,1 +1,3 @@
 # MasterMusic-player
+python
+tkinter
